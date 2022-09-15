@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exrci_switch", "exrci_switch.csproj", "{1EED1CAD-5D34-40E5-B87D-8B4CA514E95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EED1CAD-5D34-40E5-B87D-8B4CA514E95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EED1CAD-5D34-40E5-B87D-8B4CA514E95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EED1CAD-5D34-40E5-B87D-8B4CA514E95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EED1CAD-5D34-40E5-B87D-8B4CA514E95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15DD8FA0-BCD7-4E3D-9D34-DEF8D7D8A531}
+	EndGlobalSection
+EndGlobal

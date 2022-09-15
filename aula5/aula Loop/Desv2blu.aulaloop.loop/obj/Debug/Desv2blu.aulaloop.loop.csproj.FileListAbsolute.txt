@@ -1,0 +1,8 @@
+C:\projeto1\src\curso_devs2\aula5\aula Loop\Desv2blu.aulaloop.loop\bin\Debug\Desv2blu.aulaloop.loop.exe.config
+C:\projeto1\src\curso_devs2\aula5\aula Loop\Desv2blu.aulaloop.loop\bin\Debug\Desv2blu.aulaloop.loop.exe
+C:\projeto1\src\curso_devs2\aula5\aula Loop\Desv2blu.aulaloop.loop\bin\Debug\Desv2blu.aulaloop.loop.pdb
+C:\projeto1\src\curso_devs2\aula5\aula Loop\Desv2blu.aulaloop.loop\obj\Debug\Desv2blu.aulaloop.loop.csproj.AssemblyReference.cache
+C:\projeto1\src\curso_devs2\aula5\aula Loop\Desv2blu.aulaloop.loop\obj\Debug\Desv2blu.aulaloop.loop.csproj.SuggestedBindingRedirects.cache
+C:\projeto1\src\curso_devs2\aula5\aula Loop\Desv2blu.aulaloop.loop\obj\Debug\Desv2blu.aulaloop.loop.csproj.CoreCompileInputs.cache
+C:\projeto1\src\curso_devs2\aula5\aula Loop\Desv2blu.aulaloop.loop\obj\Debug\Desv2blu.aulaloop.loop.exe
+C:\projeto1\src\curso_devs2\aula5\aula Loop\Desv2blu.aulaloop.loop\obj\Debug\Desv2blu.aulaloop.loop.pdb

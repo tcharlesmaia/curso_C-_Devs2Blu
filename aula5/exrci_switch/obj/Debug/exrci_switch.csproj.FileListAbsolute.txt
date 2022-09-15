@@ -1,0 +1,8 @@
+C:\projeto1\src\curso_devs2\aula5\exrci_switch\bin\Debug\exrci_switch.exe.config
+C:\projeto1\src\curso_devs2\aula5\exrci_switch\bin\Debug\exrci_switch.exe
+C:\projeto1\src\curso_devs2\aula5\exrci_switch\bin\Debug\exrci_switch.pdb
+C:\projeto1\src\curso_devs2\aula5\exrci_switch\obj\Debug\exrci_switch.csproj.AssemblyReference.cache
+C:\projeto1\src\curso_devs2\aula5\exrci_switch\obj\Debug\exrci_switch.csproj.SuggestedBindingRedirects.cache
+C:\projeto1\src\curso_devs2\aula5\exrci_switch\obj\Debug\exrci_switch.csproj.CoreCompileInputs.cache
+C:\projeto1\src\curso_devs2\aula5\exrci_switch\obj\Debug\exrci_switch.exe
+C:\projeto1\src\curso_devs2\aula5\exrci_switch\obj\Debug\exrci_switch.pdb
